@@ -2,7 +2,7 @@
     "posts" : [
         {
             "id" : 1,
-            "image": "../src/assets/images/about-bg.jpg",
+            "image": "https://real-estate-images.netlify.app/images/about-bg.jpg",
             "property_type" : "Apartment",
             "property_name" : "Luxury Family House",
             "agent_name" : "Maurice",
@@ -16,7 +16,7 @@
         },
         {
             "id" : 2,
-            "image": "../src/assets/images/blog1.jpg",
+            "image": "https://real-estate-images.netlify.app/images/blog1.jpg",
             "property_type" : "Mansion",
            "property_name" : "Luxury Nollyhood House",
            "agent_name" : "Wisdom",
@@ -30,7 +30,7 @@
         },
         {
             "id" : 3,
-            "image": "../src/assets/images/home-background.jpg",
+            "image": "https://real-estate-images.netlify.app/images/home-background.jpg",
             "property_type" : "Two Room Selfcom",
             "property_name" : "Bungalow Fun House",
             "agent_name" : "jeffery",
@@ -44,7 +44,7 @@
         },
         {
             "id" : 4,
-            "image": "../src/assets/images/blog2.jpg",
+            "image": "https://real-estate-images.netlify.app/images/blog2.jpg",
             "property_type" : "Boys Quater",
             "property_name" : "Luxury Boys House",
             "agent_name" : "Jack",
@@ -58,7 +58,7 @@
         },
         {
             "id" : 5,
-            "image": "../src/assets/images/about-bg.jpg",
+            "image": "https://real-estate-images.netlify.app/images/about-bg.jpg",
             "property_type" : "Second Floor Mansion",
             "property_name" : "Luxury Second Floor",
             "agent_name" : "Kingson",
@@ -72,7 +72,7 @@
         },
         {
             "id" : 6,
-            "image": "../src/assets/images/blog3.jpg",
+            "image": "https://real-estate-images.netlify.app/images/blog3.jpg",
             "property_type" : "Duplex",
             "property_name" : " Hollyhood Fun House",
             "agent_name" : "Halkins",
@@ -86,7 +86,7 @@
         },
         {
             "id" : 7,
-            "image": "../src/assets/images/home-background.jpg",
+            "image": "https://real-estate-images.netlify.app/images/home-background.jpg",
             "property_type" : "Public House",
             "property_name" : "Luxury Family House",
             "market_option": "For Rent",
@@ -102,35 +102,35 @@
     "testimonies" : [
     {
         "id" : 1,
-        "testimonialImg" : "../src/assets/images/home-background.jpg",
+        "testimonialImg" : "https://real-estate-images.netlify.app/images/home-background.jpg",
         "name" : "Wisdom Alom",
         "role" : "Sales Manager",
         "paragraph" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita, enim!"
     },
     {
         "id" : 2,
-        "testimonialImg" : "../src/assets/images/me.jpg",
+        "testimonialImg" : "https://real-estate-images.netlify.app/images/me.jpg",
         "name" : "Wishot Cipher",
         "role" : "CEO",
         "paragraph" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita, enim!"
     },
     {
         "id" : 3,
-        "testimonialImg" : "../src/assets/images/about-bg.jpg",
+        "testimonialImg" : "https://real-estate-images.netlify.app/images/about-bg.jpg",
         "name" : "Maurice Nice",
         "role" : "Director",
         "paragraph" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita, enim!"
     },
     {
         "id" : 4,
-        "testimonialImg" : "../src/assets/images/hero-bg.jpg",
+        "testimonialImg" : "https://real-estate-images.netlify.app/images/hero-bg.jpg",
         "name" : "Cakahal Johnson",
         "role" : "Chife Enrg.",
         "paragraph" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita, enim!"
     },
     {
         "id" : 5,
-        "testimonialImg" : "../src/assets/images/me.jpg",
+        "testimonialImg" : "https://real-estate-images.netlify.app/images/me.jpg",
         "name" : "Vini Junior",
         "role" : "Chife Baller",
         "paragraph" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita, enim!"
