@@ -3,30 +3,67 @@
         {
             "id" : 1,
             "image": "https://real-estate-images.netlify.app/images/about-bg.jpg",
-            "property_type" : "Apartment",
+            "property_type" : "Mansion",
             "property_name" : "Luxury Family House",
             "agent_name" : "Maurice",
             "market_option": "For Sell",
             "market_price": 10000,
             "date_posted" : "4 years ago",
-            "property_location" : "19-21 3rd, Avenue Hoston",
+            "property_location" : "3rd, Avenue Hoston America",
             "Bed": 2,
             "Sqft": 120,
-            "Bath": 1
+            "country" : "America",
+            "housetype" : "Mansion",
+            "Bath": 1,
+            "featured": "Featured",
+            "Details" :{
+                "Year_built" : 1930,
+                "Lot_area" : 300,
+                "lot_dimension" : 30,
+                "Rooms" : 3,
+                "garages" : 1
+            },
+            "overview_body" : 
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati                          alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
+            "detail_images" :[
+                {
+                    "detail_image1":"https://real-estate-images.netlify.app/12-1-850x550.jpg",
+                    "detail_image2":"https://real-estate-images.netlify.app/images/14-850x550.jpg",
+                    "detail_image3":"https://real-estate-images.netlify.app/images/13-850x550.jpg"
+                }
+            ]
         },
         {
             "id" : 2,
             "image": "https://real-estate-images.netlify.app/images/blog1.jpg",
-            "property_type" : "Mansion",
+            "property_type" : "Duplex",
            "property_name" : "Luxury Nollyhood House",
            "agent_name" : "Wisdom",
            "date_posted" : "2 years ago",
             "market_option": "For Rent",
             "market_price": 3000,
-            "property_location" : "20-18 2nd, Avenue America",
+            "property_location" : "2nd, Avenue Nigeria",
             "Bed": 1,
-            "Sqft": 90,
-            "Bath": 1
+            "Sqft": 320,
+            "country" : "Nigeria",
+            "housetype" : "Duplex",
+            "Bath": 1,
+            "Details" :{
+                "Year_built" : 1990,
+                "Lot_area" : 450,
+                "lot_dimension" : 45,
+                "Rooms" : 3,
+                "garages" : 1
+            },
+            "overview_body" : 
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
+            "detail_images" :[
+                {
+                    "detail_image1":"https://real-estate-images.netlify.app/images/19.jpg",
+                    "detail_image2":"https://real-estate-images.netlify.app/images/20.jpg",
+                    "detail_image3":"https://real-estate-images.netlify.app/images/21.jpg"
+                }
+            ]
         },
         {
             "id" : 3,
@@ -37,10 +74,28 @@
             "date_posted" : "1 year ago",
             "market_option": "For Rent",
             "market_price": 1500,
-            "property_location" : "19-21 Ist, Avenue Hoston",
+            "property_location" : "Ist, Avenue Hoston Nigeria",
+            "country" : "Nigeria",
+            "housetype" : "Bungalow",
             "Bed": 3,
             "Sqft": 150,
-            "Bath": 2
+            "Bath": 2,
+            "Details" :{
+                "Year_built" : 1970,
+                "Lot_area" : 300,
+                "lot_dimension" : 30,
+                "Rooms" : 5,
+                "garages" : 2
+            },
+            "overview_body" : 
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
+            "detail_images" :[
+                {
+                    "detail_image1":"https://real-estate-images.netlify.app/images/22.jpg",
+                    "detail_image2":"https://real-estate-images.netlify.app/images/24-850x550.jpg",
+                    "detail_image3":"https://real-estate-images.netlify.app/images/23-640x540.jpg"
+                }
+            ]
         },
         {
             "id" : 4,
@@ -51,38 +106,95 @@
             "date_posted" : "2 years ago",
             "market_option": "For Sell",
             "market_price": 7000,
-            "property_location" : "30-21 Ist, Enugu Avenue",
+            "property_location" : "Ist, Egu Avenue SouthAfrica",
             "Bed": 2,
-            "Sqft": 130,
-            "Bath": 2
+            "Sqft": 150,
+            "Bath": 2,
+            "featured": "Featured",
+            "Details" :{
+                "Year_built" : 1960,
+                "Lot_area" : 500,
+                "lot_dimension" : 50,
+                "Rooms" : 4,
+                "garages" : 1
+            },
+            "country" : "SouthAfrica",
+            "housetype" : "Duplex",
+            "overview_body" : 
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati                          alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
+            "detail_images" :[
+                {
+                    "detail_image1":"https://real-estate-images.netlify.app/images/blog1.jpg",
+                    "detail_image2":"https://real-estate-images.netlify.app/images/blog2.jpg",
+                    "detail_image3":"https://real-estate-images.netlify.app/images/blog3.jpg"
+                }
+            ]
         },
         {
             "id" : 5,
             "image": "https://real-estate-images.netlify.app/images/about-bg.jpg",
-            "property_type" : "Second Floor Mansion",
+            "property_type" : "Second Floor Bungalow",
             "property_name" : "Luxury Second Floor",
             "agent_name" : "Kingson",
             "date_posted" : "5 years ago",
             "market_option": "For Sell",
             "market_price": 15000,
-            "property_location" : "19-21 Ist, New Heaven Enugu",
+            "property_location" : "Ist, New Heaven Enugu Ghana",
             "Bed": 1,
-            "Sqft": 100,
-            "Bath": 1
+            "Sqft": 250,
+            "Bath": 1,
+            "featured": "Featured",
+            "country" : "Ghana",
+            "housetype" : "Bungalow",
+            "Details" :{
+                "Year_built" : 1965,
+                "Lot_area" : 550,
+                "lot_dimension" : 55,
+                "Rooms" : 5,
+                "garages" : 2
+            },
+            "overview_body" : 
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati                          alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
+            "detail_images" :[
+                {
+                    "detail_image1":"https://real-estate-images.netlify.app/images/25-850x550.jpg",
+                    "detail_image2":"https://real-estate-images.netlify.app/images/home-background.jpg",
+                    "detail_image3":"https://real-estate-images.netlify.app/images/19.jpg"
+                }
+            ]
         },
         {
             "id" : 6,
             "image": "https://real-estate-images.netlify.app/images/blog3.jpg",
-            "property_type" : "Duplex",
+            "property_type" : "Semi-detached",
             "property_name" : " Hollyhood Fun House",
             "agent_name" : "Halkins",
             "date_posted" : "2 years ago",
            "market_option": "For Sell",
            "market_price": 5000,
-           "property_location": "19-21 Ist Obiagu, Enugu",
+           "property_location": "Ist Obiagu, Enugu SouthAfrica",
             "Bed": 4,
-            "Sqft": 170,
-           "Bath": 2
+            "Sqft": 270,
+           "Bath": 2,
+           "country" : "SouthAfrica",
+           "housetype" : "Semi-detached",
+           "featured": "Featured",
+           "Details" :{
+            "Year_built" : 1930,
+            "Lot_area" : 300,
+            "lot_dimension" : 30,
+            "Rooms" : 2,
+            "garages" : 1
+        },
+           "overview_body" : 
+           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati                          alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
+           "detail_images" :[
+               {
+                   "detail_image1":"https://real-estate-images.netlify.app/images/21.jpg",
+                   "detail_image2":"https://real-estate-images.netlify.app/images/14-850x550.jpg",
+                   "detail_image3":"https://real-estate-images.netlify.app/images/about-bg.jpg"
+               }
+           ]
         },
         {
             "id" : 7,
@@ -93,16 +205,68 @@
             "market_price": 4000,
             "agent_name" : "Lukaku",
             "date_posted" : "7 year ago",
-            "property_location" : "19-21 Ist Avenue, Abuja",
+            "country" : "America",
+            "housetype" : "Duplex",
+            "property_location" : "Ist Avenue, Abuja Ghana",
             "Bed": 1,
             "Sqft": 110,
-            "Bath": 1
+            "Bath": 1,
+            "Details" :{
+                "Year_built" : 1973,
+                "Lot_area" : 400,
+                "lot_dimension" : 40,
+                "Rooms" : 3,
+                "garages" : 1
+            },
+        "overview_body" : 
+                         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati                          alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
+            "detail_images" :[
+                {
+                    "detail_image1":"https://real-estate-images.netlify.app/images/24-850x550.jpg",
+                    "detail_image2":"https://real-estate-images.netlify.app/images/blog1.jpg",
+                    "detail_image3":"https://real-estate-images.netlify.app/images/22.jpg"
+                }
+            ]
+        },
+        {
+            "id" : 8,
+            "image": "https://real-estate-images.netlify.app/images/14-850x550.jpg",
+            "property_type" : "bungalow",
+            "property_name" : "Luxury Family House",
+            "market_option": "For Sale",
+            "market_price": 17000,
+            "agent_name" : "Wishot",
+            "date_posted" : "4 year ago",
+            "country" : "Nigeria",
+            "housetype" : "Bungalow",
+            "property_location" : "Ist Avenue, general estate Nigeria",
+            "Bed": 2,
+            "Sqft": 280,
+            "Bath": 1,
+            "featured": "Featured",
+            "Details" :{
+                "Year_built" : 1961,
+                "Lot_area" : 500,
+                "lot_dimension" : 50,
+                "Rooms" : 4,
+                "garages" : 2
+            },
+        "overview_body" : 
+                         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati                          alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
+            "detail_images" :[
+                {
+                    "detail_image1":"https://real-estate-images.netlify.app/images/19.jpg",
+                    "detail_image2":"https://real-estate-images.netlify.app/images/13-850x550.jpg",
+                    "detail_image3":"https://real-estate-images.netlify.app/images/25-850x550.jpg"
+                }
+            ]
         }
     ],
+    
     "testimonies" : [
     {
         "id" : 1,
-        "testimonialImg" : "https://real-estate-images.netlify.app/images/home-background.jpg",
+        "testimonialImg" : "https://real-estate-images.netlify.app/images/5.jpg",
         "name" : "Wisdom Alom",
         "role" : "Sales Manager",
         "paragraph" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita, enim!"
@@ -116,23 +280,30 @@
     },
     {
         "id" : 3,
-        "testimonialImg" : "https://real-estate-images.netlify.app/images/about-bg.jpg",
+        "testimonialImg" : "https://real-estate-images.netlify.app/images/6.jpg",
         "name" : "Maurice Nice",
         "role" : "Director",
         "paragraph" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita, enim!"
     },
     {
         "id" : 4,
-        "testimonialImg" : "https://real-estate-images.netlify.app/images/hero-bg.jpg",
+        "testimonialImg" : "https://real-estate-images.netlify.app/images/8.jpg",
         "name" : "Cakahal Johnson",
         "role" : "Chife Enrg.",
         "paragraph" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita, enim!"
     },
     {
         "id" : 5,
-        "testimonialImg" : "https://real-estate-images.netlify.app/images/me.jpg",
+        "testimonialImg" : "https://real-estate-images.netlify.app/images/9.jpg",
         "name" : "Vini Junior",
         "role" : "Chife Baller",
+        "paragraph" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita, enim!"
+    },
+    {
+        "id" : 6,
+        "testimonialImg" : "https://real-estate-images.netlify.app/images/12.jpg",
+        "name" : "Willy Bounty",
+        "role" : "Executive Oficer",
         "paragraph" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita, enim!"
     }
     ]
