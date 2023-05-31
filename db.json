@@ -25,13 +25,12 @@
             },
             "overview_body" : 
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati                          alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
-            "detail_images" :[
+            "detail_images" :
                 {
                     "detail_image1":"https://real-estate-images.netlify.app/12-1-850x550.jpg",
                     "detail_image2":"https://real-estate-images.netlify.app/images/14-850x550.jpg",
                     "detail_image3":"https://real-estate-images.netlify.app/images/13-850x550.jpg"
                 }
-            ]
         },
         {
             "id" : 2,
@@ -57,13 +56,12 @@
             },
             "overview_body" : 
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
-            "detail_images" :[
+            "detail_images" :
                 {
                     "detail_image1":"https://real-estate-images.netlify.app/images/19.jpg",
                     "detail_image2":"https://real-estate-images.netlify.app/images/20.jpg",
                     "detail_image3":"https://real-estate-images.netlify.app/images/21.jpg"
                 }
-            ]
         },
         {
             "id" : 3,
@@ -89,13 +87,12 @@
             },
             "overview_body" : 
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
-            "detail_images" :[
+            "detail_images" :
                 {
                     "detail_image1":"https://real-estate-images.netlify.app/images/22.jpg",
                     "detail_image2":"https://real-estate-images.netlify.app/images/24-850x550.jpg",
                     "detail_image3":"https://real-estate-images.netlify.app/images/23-640x540.jpg"
                 }
-            ]
         },
         {
             "id" : 4,
@@ -122,13 +119,12 @@
             "housetype" : "Duplex",
             "overview_body" : 
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati                          alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
-            "detail_images" :[
+            "detail_images" :
                 {
                     "detail_image1":"https://real-estate-images.netlify.app/images/blog1.jpg",
                     "detail_image2":"https://real-estate-images.netlify.app/images/blog2.jpg",
                     "detail_image3":"https://real-estate-images.netlify.app/images/blog3.jpg"
                 }
-            ]
         },
         {
             "id" : 5,
@@ -155,13 +151,12 @@
             },
             "overview_body" : 
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati                          alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
-            "detail_images" :[
+            "detail_images" :
                 {
                     "detail_image1":"https://real-estate-images.netlify.app/images/25-850x550.jpg",
                     "detail_image2":"https://real-estate-images.netlify.app/images/home-background.jpg",
                     "detail_image3":"https://real-estate-images.netlify.app/images/19.jpg"
                 }
-            ]
         },
         {
             "id" : 6,
@@ -188,13 +183,12 @@
         },
            "overview_body" : 
            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati                          alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
-           "detail_images" :[
+           "detail_images" :
                {
                    "detail_image1":"https://real-estate-images.netlify.app/images/21.jpg",
                    "detail_image2":"https://real-estate-images.netlify.app/images/14-850x550.jpg",
                    "detail_image3":"https://real-estate-images.netlify.app/images/about-bg.jpg"
                }
-           ]
         },
         {
             "id" : 7,
@@ -220,13 +214,12 @@
             },
         "overview_body" : 
                          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati                          alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
-            "detail_images" :[
+            "detail_images" :
                 {
                     "detail_image1":"https://real-estate-images.netlify.app/images/24-850x550.jpg",
                     "detail_image2":"https://real-estate-images.netlify.app/images/blog1.jpg",
                     "detail_image3":"https://real-estate-images.netlify.app/images/22.jpg"
                 }
-            ]
         },
         {
             "id" : 8,
@@ -253,13 +246,12 @@
             },
         "overview_body" : 
                          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciuntaperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optioaliquam beatae necessitati                          alomnwachukwu. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!.   Lorem ipsum dolor sit amet consectetur adipisicing elit.  Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur laborum suscipit rem nesciunt aperiam facilis sed reiciendis aut, maiores recusandae, corrupti nemo deleniti esse voluptas optio aliquam beatae necessitatibus cum delectus velit temporibus culpa sint. At repudiandae nobis esse dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, totam nulla aspernatur dolores consequuntur eligendi eos maxime doloribus non culpa!",
-            "detail_images" :[
+            "detail_images" :
                 {
                     "detail_image1":"https://real-estate-images.netlify.app/images/19.jpg",
                     "detail_image2":"https://real-estate-images.netlify.app/images/13-850x550.jpg",
                     "detail_image3":"https://real-estate-images.netlify.app/images/25-850x550.jpg"
                 }
-            ]
         }
     ],
     
